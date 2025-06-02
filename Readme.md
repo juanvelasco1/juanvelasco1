@@ -42,7 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/juanvelasco1/juanvelasco1/output/snake.svg" alt="Snake animation" />
 
 
 <br clear="both">
@@ -52,6 +51,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanvelasco1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="310" alt="languages graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=juanvelasco1&theme=juicyfresh&column=4&row=1&margin-w=3&margin-h=4&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
+
+<img src="https://raw.githubusercontent.com/juanvelasco1/juanvelasco1/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
 
