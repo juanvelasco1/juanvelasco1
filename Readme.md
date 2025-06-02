@@ -6,7 +6,7 @@
 
 ###
 
-<h5 align="left">🔵 Frontend architecture with clean, modular components<br>🟢 Design systems and UI libraries (Material UI, Tailwind)<br>🟡 Interactive experiences (quizzes, gamification, storytelling)<br>🔴 UX design with a real human-centered approach</h5>
+<h6 align="left">🔵 Frontend architecture with clean, modular components<br>🟢 Design systems and UI libraries (Material UI, Tailwind)<br>🟡 Interactive experiences (quizzes, gamification, storytelling)<br>🔴 UX design with a real human-centered approach</h6>
 
 ###
 
