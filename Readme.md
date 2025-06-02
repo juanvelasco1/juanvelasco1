@@ -2,11 +2,11 @@
 
 ###
 
-<h5 align="left">A passionate Frontend Developer and UX Designer in training, combining design and interactivity to build intuitive web experiences. 🚀</h5>
+<h4 align="left">A passionate Frontend Developer and UX Designer in training, combining design and interactivity to build intuitive web experiences. 🚀</h4>
 
 ###
 
-<h6 align="left">🔵 Frontend architecture with clean, modular components<br>🟢 Design systems and UI libraries (Material UI, Tailwind)<br>🟡 Interactive experiences (quizzes, gamification, storytelling)<br>🔴 UX design with a real human-centered approach</h6>
+<h5 align="left">🔵 Frontend architecture with clean, modular components<br>🟢 Design systems and UI libraries (Material UI, Tailwind)<br>🟡 Interactive experiences (quizzes, gamification, storytelling)<br>🔴 UX design with a real human-centered approach</h5>
 
 ###
 
