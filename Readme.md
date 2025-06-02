@@ -10,7 +10,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/juanvelasco1/juanvelasco1/output/snake.svg" alt="Snake animation" />
 
 
 <h3 align="center">Technologies & Tools</h3>
@@ -42,6 +41,9 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/juanvelasco1/juanvelasco1/output/snake.svg" alt="Snake animation" />
+
 
 <br clear="both">
 
