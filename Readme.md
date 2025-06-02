@@ -11,6 +11,7 @@
 ###
 
 <img src="https://juanvelasco1.github.io/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <h3 align="center">Technologies & Tools</h3>
@@ -46,7 +47,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanvelasco1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="300" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=juanvelasco1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="298" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juanvelasco1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&order=2" height="310" alt="languages graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=juanvelasco1&theme=juicyfresh&column=4&row=1&margin-w=3&margin-h=4&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
