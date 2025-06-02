@@ -10,8 +10,7 @@
 
 ###
 
-<img src="https://juanvelasco1.github.io/output/snake.svg" alt="Snake animation" />
-
+<img src="https://raw.githubusercontent.com/juanvelasco1/juanvelasco1/output/snake.svg" alt="Snake animation" />
 ###
 
 <h3 align="center">Technologies & Tools</h3>
