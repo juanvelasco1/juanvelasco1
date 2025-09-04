@@ -1,4 +1,4 @@
-<h1 align="center">Hello I'm Juan V 🥊</h1>
+<h1 align="center">Juan Velasco</h1>
 
 ###
 
